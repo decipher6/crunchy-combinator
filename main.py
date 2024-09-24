@@ -83,7 +83,7 @@ def enrich_dataset(input_file, output_file):
                     row[field] = ''
 
             enriched_data.append(row)
-            time.sleep(0)  # Delay to respect rate limits
+            time.sleep(0.2)  # Delay to respect rate limits
 
     with open(output_file, 'w', newline='') as outfile:
         writer = csv.DictWriter(outfile, fieldnames=all_fieldnames)
