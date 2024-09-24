@@ -1,7 +1,7 @@
 
 # Ethics
 
-This project is an automated web scraper that collects data from Y Combinator's website. The data is used for analysis and educational purposes.
+This project is an automated web scraper that collects data from Y Combinator's website and enriches the data using data from CrunchBase. The data is used for analysis and educational purposes.
 
 ## Responsible Data Handling
 
@@ -42,11 +42,3 @@ The project will comply with all applicable laws and regulations. The project wi
 
 * Violate any laws or regulations related to data privacy, intellectual property, or security.
 * Engage in any illegal or harmful activities.
-
-## Continuous Improvement
-
-The project will continuously evaluate and improve its ethics and practices. The project will:
-
-* Regularly review and update its ethics document.
-* Regularly review and update its data handling practices.
-* Regularly review and update its security practices.
