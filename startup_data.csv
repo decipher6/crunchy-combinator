@@ -1,0 +1,41 @@
+Name,Location,Description,Cohort,Tags,b2b
+Airbnb,"San Francisco, CA, USA",Book accommodations around the world.,W09,"Consumer, Travel, Leisure and Tourism",False
+Amplitude,"San Francisco, CA, USA",Digital Analytics Platform,W12,Analytics,True
+Coinbase,"San Francisco, CA, USA","Buy, sell, and manage cryptocurrencies.",S12,"Fintech, Banking and Exchange",False
+DoorDash,"San Francisco, CA, USA",Restaurant delivery.,S13,"Consumer, Food and Beverage",False
+Dropbox,"San Francisco, CA, USA",Backup and share files in the cloud.,S07,Productivity,True
+Ginkgo Bioworks,"Boston, MA, USA",Our mission is to make biology easier to engineer.,S14,"Healthcare, Industrial Bio",False
+GitLab,"San Francisco, CA, USA",A complete DevOps platform delivered as a single application.,W15,"Engineering, Product and Design",True
+Instacart,"San Francisco, CA, USA",Marketplace for grocery delivery and pickup,S12,"Consumer, Food and Beverage",False
+Momentus,"Santa Clara, CA, USA",The space infrastructure services company,S18,"Industrials, Aviation and Space",False
+Notable Labs,"Foster City, CA, USA",Personalized drug discovery for blood cancer.,W15,"Healthcare, Diagnostics",False
+PagerDuty,"San Francisco, CA, USA",Real-time visibility into critical apps and services all in one place.,S10,"Engineering, Product and Design",True
+Pardes Biosciences,"San Francisco, CA, USA",We break viruses,S20,"Healthcare, Drug Discovery and Delivery",False
+Presto,"San Carlos, CA, USA",Digital meets physical for big chain restaurants,S10,Retail,True
+Rigetti Computing,"Berkeley, CA, USA",Quantum coherent supercomputing.,S14,"Industrials, Manufacturing and Robotics",False
+Weave,"Lehi, UT, USA",Customer communication and payments platform.,W14,Office Management,True
+Oklo,"Santa Clara, CA, USA","Emission free, always on power from advanced fission power plants.",S14,"Industrials, Energy",False
+Matterport,"Sunnyvale, CA, USA",Turn physical objects and environments into 3D models in seconds.,W12,"Consumer, Virtual and Augmented Reality",False
+Embark Trucks,"San Francisco, CA, USA",Self-driving semi trucks.,W16,"Industrials, Automotive",False
+Lucira Health,"Emeryville, CA, USA",Next generation infectious disease test kits,W15,"Healthcare, Diagnostics",False
+Segment,"San Francisco, CA, USA","Software and APIs to collect, clean, and control customer data.",S11,Analytics,True
+Algolia,"San Francisco, CA, USA",A developer-friendly and enterprise-grade search API.,W14,"Engineering, Product and Design",True
+Truebill,"Silver Spring, MD, USA",Live your best financial life,W16,"Fintech, Consumer Finance",False
+Twitch,"San Francisco, CA, USA",A global community creating the future of live entertainment.,W07,"Consumer, Content",False
+PlanGrid,"San Francisco, CA, USA",Mobile applications for the construction industry.,W12,"Real Estate and Construction, Construction",False
+Bellabeat,"San Francisco, CA, USA",Tech-powered women's wellness.,W14,"Consumer, Consumer Electronics",False
+Cruise,"San Francisco, CA, USA",Self-driving cars.,W14,"Industrials, Automotive",False
+Benchling,"San Francisco, CA, USA",Unlocking the power of biotech with modern software for modern science,S12,,True
+Casetext,"San Francisco, CA, USA",We make the world's laws free and understandable.,S13,Legal,True
+Bird,"Amsterdam, NH, Netherlands",The world’s largest omnichannel communications platform,S16,"Engineering, Product and Design",True
+Brex,"San Francisco, CA, USA","Business accounts, corporate cards, and spend management software.",W17,"Fintech, Banking and Exchange",False
+The Athletic,"San Francisco, CA, USA",Subscription sports media.,S16,"Consumer, Content",False
+Codecademy,"New York, NY, USA",The leading online learning platform for technical skills.,S11,Education,False
+Checkr,"San Francisco, CA, USA",People infrastructure for the future of work,S14,Human Resources,True
+Lever,"San Francisco, CA, USA",Talent Acquisition Suite that combines ATS + Talent CRM,S12,Recruiting and Talent,True
+Clipboard Health,Remote,Connects healthcare facilities with nurses nearby.,W17,"Healthcare, Healthcare Services",False
+Heap,"San Francisco, CA, USA",Captures user interactions with no code to generate analytics.,W13,Analytics,True
+Sendwave,"Boston, MA, USA","Instant, no fee international remittances.",W12,"Fintech, Payments",False
+Deel,"San Francisco, CA, USA",The all-in-one HR and payroll platform for global teams,W19,Finance and Accounting,True
+Clever,"San Francisco, CA, USA",The platform that powers technology in the classroom.,S12,Education,False
+Caper,,Plug-and-play cashier-less retail powered by computer vision and AI,W16,Retail,True
