@@ -18,20 +18,20 @@ Crunchbase is a comprehensive startup database that provides detailed informatio
 From Y Combinator:
 
 Startup Name
-Location
-Initial Description
-Cohort (the batch the startup belongs to)
-Tags (indicating their field of operation)
+- Location
+- Initial Description
+- Cohort (the batch the startup belongs to)
+- Tags (indicating their field of operation)
 
 From Crunchbase API:
-Stock Exchange Information (for publicly traded startups)
-Social Media Links (LinkedIn, Twitter, Facebook)
-Date of Creation
-Entity Defining Tag (i.e. Organization)
-Logo
-Extended Description
-Information Update Date
-Website URL
+- Stock Exchange Information (for publicly traded startups)
+- Social Media Links (LinkedIn, Twitter, Facebook)
+- Date of Creation
+- Entity Defining Tag (i.e. Organization)
+- Logo
+- Extended Description
+- Information Update Date
+- Website URL
 
 This dataset contains startup data gathered from the Y Combinator website and Crunchbase API. The purpose of this dataset is to provide a comprehensive and up-to-date list of Y Combinator startups, including their names, descriptions, locations, cohorts, and tags. The dataset also includes additional information from Crunchbase, such as the date the startup was founded, its socials and its website URL.
 
