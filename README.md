@@ -42,6 +42,6 @@ To run this dataset, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/decipher6/crunchy_combinator`
 2. Install the requirements: `pip install -r requirements.txt`
-3. Run the web scraper: `python main.py`
+3. Run the web scraper: `python main.py`. (You may change the number of companies to scrape, but minimum 40 will be scraped)
 4. The dataset will be saved as a CSV file called `startup_data_enriched.csv`.
 5. The pre-enriched `startup_data.csv` is also available.

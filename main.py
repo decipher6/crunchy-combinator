@@ -183,7 +183,7 @@ while True:
         if company_data not in all_companies:
             all_companies.append(company_data)
     
-    # How much to be scraped |--> MODIFIABLE <--|, but minimum is 20 companies
+    # How much to be scraped |--> MODIFIABLE <--|, but minimum is 40 companies
     if len(all_companies) >= 300:
         break
     
