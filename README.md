@@ -16,8 +16,7 @@ Crunchbase is a comprehensive startup database that provides detailed informatio
 # Data Gathered
 
 From Y Combinator:
-
-Startup Name
+- Startup Name
 - Location
 - Initial Description
 - Cohort (the batch the startup belongs to)

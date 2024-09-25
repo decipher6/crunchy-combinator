@@ -184,7 +184,7 @@ while True:
             all_companies.append(company_data)
     
     # How much to be scraped |--> MODIFIABLE <--|, but minimum is 20 companies
-    if len(all_companies) >= 20:
+    if len(all_companies) >= 300:
         break
     
     # Scroll down to load more companies
